@@ -3,8 +3,8 @@
 
 ## Bamazon Customer
 * The inital user view:
-<!-- ![Screenshot](/images/InitalCustomerView.png?raw=true "InitialCustomerView") -->
-https://raw.github.com/jenos1/Bamazon/master/images/InitialCustomerView.png
+![Screenshot](/images/InitialCustomerView.png?raw=true "InitialCustomerView")
+  * https://raw.github.com/jenos1/Bamazon/master/images/InitialCustomerView.png
 
 
 
