@@ -9,7 +9,7 @@
 ![Screenshot](/images/InitialCustomerView.png?raw=true "InitialCustomerView")
 
 ### The Successful Purchase View
-# If the item is in stock, the order will be completed and the user will see the total amount of their purchase.
+* If the item is in stock, the order will be completed and the user will see the total amount of their purchase.
 
 ![Screenshot](/images/SuccessfulPurchase.png?raw=true "SuccessfulPurchase")
 
