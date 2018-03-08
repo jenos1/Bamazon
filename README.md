@@ -3,17 +3,17 @@
 
 ## Bamazon Customer
 
-### The inital user view:
+### The Inital User View
 * Allows user to view the current items available for purchase. The user is prompted to enter the item id# and how many items they wish to purchase. 
 
 ![Screenshot](/images/InitialCustomerView.png?raw=true "InitialCustomerView")
 
-### The successful purchase view:
-* If the item is in stock, the order will be completed and the user will see the total amount of their purchase.
+### The Successful Purchase View
+# If the item is in stock, the order will be completed and the user will see the total amount of their purchase.
 
 ![Screenshot](/images/SuccessfulPurchase.png?raw=true "SuccessfulPurchase")
 
-### The unsuccessful purchase view:
+### The Unsuccessful Purchase View
 * If the user enters a quantity that is more than Bamazon has in stock, then user is notified and sent back to re-enter purchase quantity information.
 
 ![Screenshot](/images/UnsuccessfulPurchase.png?raw=true "UnsuccessfulPurchase")
@@ -26,6 +26,6 @@
   * inquirer
   * console.table
 
-  ## Contributors:
+## Contributors:
   * JoAnn Enos
 
