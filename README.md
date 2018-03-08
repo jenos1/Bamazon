@@ -3,7 +3,7 @@
 
 ## Bamazon Customer
 * The inital user view:
-![Screenshot](/images/initalCustomerView.png?raw=true "InitialCustomerView")
+![Screenshot](/images/InitalCustomerView.png?raw=true "InitialCustomerView")
 
 
 
